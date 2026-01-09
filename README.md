@@ -6,6 +6,7 @@ Los enemigos cuentan con un comportamiento inteligente: detectan al jugador, lo 
 
 El juego está compuesto por dos niveles interconectados. Al cruzar un puente, el jugador es transportado automáticamente al segundo nivel, lo que introduce una progresión natural del mundo y nuevos desafíos. Cada zona presenta una ambientación distinta dentro del mismo universo infectado.
 
+
 🎮 Características principales
 
 Mundo 2D infectado con estética pixel art
@@ -19,6 +20,7 @@ Sistema de vida del jugador
 Transición entre niveles mediante exploración del mapa
 
 Dos niveles jugables conectados entre sí
+
 
 🛠️ Tecnologías
 
