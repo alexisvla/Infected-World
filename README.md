@@ -1,6 +1,6 @@
 🦠 Infected World
 
-Infected World es un videojuego 2D ambientado en un mundo postapocalíptico donde una infección ha corrompido a la mayoría de las criaturas del entorno. El jugador debe sobrevivir enfrentándose a hordas de monstruos que no solo atacan, sino que te persiguen activamente por todo el mapa, utilizando una lógica de persecución propia de videojuegos.
+Infected World es un videojuego 2.5D ambientado en un mundo postapocalíptico donde una infección ha corrompido a la mayoría de las criaturas del entorno. El jugador debe sobrevivir enfrentándose a hordas de monstruos que no solo atacan, sino que te persiguen activamente por todo el mapa, utilizando una lógica de persecución propia de videojuegos.
 
 Los enemigos cuentan con un comportamiento inteligente: detectan al jugador, lo siguen sin importar la zona del mapa en la que se encuentre y reaccionan de forma constante, aumentando la presión y la dificultad del juego.
 
@@ -9,7 +9,7 @@ El juego está compuesto por dos niveles interconectados. Al cruzar un puente, e
 
 🎮 Características principales
 
-Mundo 2D infectado con estética pixel art
+Mundo 2.5D infectado con estética pixel art
 
 Enemigos con lógica de persecución constante
 
@@ -24,7 +24,7 @@ Dos niveles jugables conectados entre sí
 
 🛠️ Tecnologías
 
-Unity (2D)
+Unity (2.5D)
 
 C#
 
